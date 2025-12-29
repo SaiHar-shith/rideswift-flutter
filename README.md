@@ -1,16 +1,36 @@
-# screens
+# 🚖 RideSwift — Flutter Ride Booking App
 
-A new Flutter project.
+RideSwift is a modern Flutter mobile application inspired by Uber and Rapido.  
+It demonstrates a complete ride booking UI flow including login, map-based home screen, ride selection, and booking confirmation.
 
-## Getting Started
+This project is built to showcase Flutter UI, navigation, and mobile app architecture.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 📲 Login screen with phone number input  
+- 🗺️ Map-based home screen  
+- 🚕 Ride selection UI (Bike, Auto, Cab)  
+- 📍 Pickup and drop location UI  
+- 🧾 Ride confirmation screen  
+- 🎨 Clean and modern Flutter UI  
+- ⚡ Fast navigation using Flutter Navigator  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🧰 Tech Stack
+
+| Technology | Used |
+|----------|------|
+| Flutter | UI Framework |
+| Dart | Programming Language |
+| Material UI | Design System |
+| Android Emulator | Testing |
+| GitHub | Version Control |
+
+
+---
+
+## 🗂 Project Structure
+
